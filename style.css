@@ -180,7 +180,7 @@
     }
 
     .hero-text{
-        margin-right: 80px;
+        margin-right: 100px;
         margin-top: 30px;
     }
 
@@ -190,9 +190,11 @@
     }
 
     .hero-section .hero-text p{
-        width: 130%;
+        width: 140%;
         margin: 10px 0;
-        padding: 0 50px;
+        /* padding: 0 50px; */
+        padding-right: 90px;
+        text-align: center;
       }
 
     .hero-section .btn{
